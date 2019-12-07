@@ -1,4 +1,5 @@
 import React from "react"
+import { Link } from "gatsby"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 
@@ -62,7 +63,7 @@ Created workflow enhancements and automations in ZenDesk CRM that increased the 
 Senior Conference Specialist<br />
 Built and tested conference calls. Submitted reports on customer complaints and inquiries. Solved or escalated technical issues. Produced broadcast-quality audio for organizations ranging from small film studios to the White House.</p>
 </div>
-
+<Link to="/">home</Link>
   </Layout>
 )
 
