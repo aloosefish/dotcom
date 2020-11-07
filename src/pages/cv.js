@@ -76,7 +76,7 @@ const CVPage = () => (
       <p>
         <strong>TaskRay</strong> - Westminster, CO
         <br />
-        9/2016 to present
+        9/2019 to present
         <br />
         Quality Assurance Engineer
         <br />
