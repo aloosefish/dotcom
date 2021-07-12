@@ -7,9 +7,9 @@ const IndexPage = () => (
   <Layout>
     <SEO title="Home" />
     <div style={{ maxWidth: `300px`, marginBottom: `1.45rem` }}>
+      <p>Software Engineer in Minneapolis, MN.</p>
       <p>
-        Software Engineer in Minneapolis, MN. Quality Assurance at{" "}
-        <a href="https://taskray.com">TaskRay</a>.
+        Quality Assurance at <a href="https://taskray.com">TaskRay</a>.
       </p>
     </div>
   </Layout>
